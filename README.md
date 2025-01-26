@@ -1,3 +1,16 @@
-Hexa Executor roblox
-Free executor roblox pc (no key)
-PC/No lag/free
+# Hexa Roblox Executor
+
+Hexa is a free, powerful executor for Roblox. It allows you to run scripts in Roblox games with ease, providing a smooth experience without any lag or performance issues on your PC.
+
+## Features
+- **Free to Use**: Hexa is completely free, with no hidden costs.
+- **No Lag**: Optimized for performance to ensure a smooth experience without slowing down your PC.
+- **Easy to Use**: Simple interface and easy script execution.
+- **Robust Compatibility**: Works with all Roblox games, ensuring compatibility with the latest updates.
+
+## How to Use
+1. Download Hexa from the official repository.
+2. Open the executor and paste your desired script.
+3. Click "Execute" to run the script in Roblox.
+
+Enjoy your free and lag-free experience with Hexa !
