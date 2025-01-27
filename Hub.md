@@ -11,25 +11,3 @@ Looking for powerful scripts and the latest updates for your Roblox games? Join 
 👉 [Join our Discord now!] https://discord.gg/KnZVtdPB
 
 See you there!
-
-⟡ HIGHWAY RUSH
-
-⟡ DRIFT PARADISE
-
-⟡ EVADE
-
-⟡ SOUTHWEST FLORIDA
-
-⟡ UNNAMED SHOOTER
-
-⟡ MURDER MYSTERY 2
-
-⟡ LEGENDS OF SPEED
-
-⟡ REFLEX AIM TRAINER 
-
-
- 
-
-
-
