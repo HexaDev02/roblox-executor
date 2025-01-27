@@ -1,6 +1,6 @@
-# Join the Hexa Riblox Community on Discord!
+# Join the Hexa Hub Community on Discord!
 
-Looking for powerful scripts and the latest updates for your Roblox games? Join our Discord community and be part of the Hexa Riblox family!
+Looking for powerful scripts and the latest updates for your Roblox games? Join our Discord community and be part of the Hexa family!
 
 💬 ***Get Help & Support*** - Our community is here to assist you with any questions or issues.
 
