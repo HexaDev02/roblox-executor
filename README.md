@@ -10,7 +10,7 @@ Hexa is a free, powerful executor for Roblox. It allows you to run scripts in Ro
 
 ## How to Use
 1. Download Hexa from the official repository. https://github.com/CryptX-V/roblox-executor/blob/main/Hexa.md
-2. Turn off anti virus. (samewith all **executor**)
+2. Turn off anti virus. (same with all **executor**)
 3. Open the executor and paste your desired script.
 4. Click "Execute" to run the script in Roblox.
 
