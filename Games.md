@@ -1,23 +1,25 @@
 # Support Games !
 
-⤿⟡ HIGHWAY RUSH ⟡⤾
+``⤿⟡ HIGHWAY RUSH ⟡⤾`` :green_circle:
 
-⤿⟡ DRIFT PARADISE ⟡⤾
+``⤿⟡ DRIFT PARADISE ⟡⤾`` :green_circle:
 
-⤿⟡ EVADE ⟡⤾
+``⤿⟡ EVADE ⟡⤾`` :green_circle:
 
-⤿⟡ SOUTHWEST FLORIDA ⟡⤾
+``⤿⟡ SOUTHWEST FLORIDA ⟡⤾`` :green_circle:
 
-⤿⟡ UNNAMED SHOOTER ⟡⤾
+``⤿⟡ UNNAMED SHOOTER ⟡⤾`` :green_circle:
 
-⤿⟡ MURDER MYSTERY 2 ⟡⤾
+``⤿⟡ MURDER MYSTERY 2 ⟡⤾`` :green_circle:
 
-⤿⟡ LEGENDS OF SPEED ⟡⤾
+``⤿⟡ LEGENDS OF SPEED ⟡⤾`` :green_circle:
 
-⤿⟡ REFLEX AIM TRAINER ⟡⤾
+``⤿⟡ REFLEX AIM TRAINER ⟡⤾`` :green_circle:
 
-⤿⟡ EVERY SECOND YOU GET +1 JUMP ⟡⤾ 
+``⤿⟡ EVERY SECOND YOU GET +1 JUMP ⟡⤾`` :green_circle:
 
-⤿⟡ CLIMB 1000 STAIRS ⟡⤾
+``⤿⟡ CLIMB 1000 STAIRS ⟡⤾`` :red_circle:
 
-⤿⟡ DOORS ⟡⤾
+``⤿⟡ DOORS ⟡⤾`` :red_circle:
+
+``⤿⟡ MURDER VS SHERIFF DUELS ⟡⤾ ``:red_circle:
